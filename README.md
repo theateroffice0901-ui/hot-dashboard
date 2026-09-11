@@ -1,0 +1,1 @@
+HOT Dashboard All Stores v5.2\n\n- SAPXOXO = THEATER 札幌大通り（H000555500）としてPDF数値を再生成時点から正しく紐付け\n- 24店舗すべてのSalon Report数値を反映\n- HOTフリーは内部シート値\n
